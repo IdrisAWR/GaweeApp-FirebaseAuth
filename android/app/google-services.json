@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406377590170",
+    "project_id": "gaweeapp-945db",
+    "storage_bucket": "gaweeapp-945db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406377590170:android:3fec7c920e8c43d142de23",
+        "android_client_info": {
+          "package_name": "com.example.coba_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo6wTErk9wxSxo5lSciLXVYNkgroPWHTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
